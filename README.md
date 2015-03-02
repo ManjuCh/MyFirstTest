@@ -1,2 +1,2 @@
 # MyFirstTest
-My first Git Repos
+My first Git Repository
